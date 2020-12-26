@@ -1,3 +1,2 @@
 # stockPrediction
-Step 1: Designing a neural network architecture for trading & finalising parameters
-Step 2: Creating a bot to trade automatically.
+A first step in a multi step design for a stock prediction app. Through the usage of LSTM networks, an attempt is made to predict stock prices of IBM. Project is still underway.
